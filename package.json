@@ -4,7 +4,8 @@
   "description": "This is the backend for a simple landing website of a company",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "satrt" : "node index.js"
   },
   "author": "Satabdisundar Behera",
   "license": "ISC",
